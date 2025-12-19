@@ -11,7 +11,7 @@ export default function Navbar() {
             className="w-9 h-9"
           />
           <span className="text-lg font-bold">
-            <a href="#skills" className="hover:text-white transition">
+            <a href="#s" className="hover:text-white transition">
               Swaroop Singh R
             </a>
           </span>
