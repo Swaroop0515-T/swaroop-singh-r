@@ -11,7 +11,9 @@ export default function Navbar() {
             className="w-9 h-9"
           />
           <span className="text-lg font-bold">
-            Swaroop Singh R
+            <a href="#skills" className="hover:text-white transition">
+              Swaroop Singh R
+            </a>
           </span>
         </div>
 
