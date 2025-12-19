@@ -30,7 +30,7 @@ export default function Hero() {
             <div className="mt-8 flex gap-4 flex-wrap">
               {/* Download CV */}
               <a
-                href="/cv.pdf"
+                href="/Swaroop Singh R Resume.pdf"
                 download
                 className="px-6 py-3 rounded-xl bg-white text-black font-medium hover:scale-105 transition"
               >
