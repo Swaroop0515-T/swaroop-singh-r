@@ -86,7 +86,7 @@ export default function Hero() {
 
             {/* PDF Viewer */}
             <iframe
-              src="/cv.pdf"
+              src="/Swaroop Singh R Resume.pdf"
               className="w-full h-full rounded-xl"
             />
           </div>
